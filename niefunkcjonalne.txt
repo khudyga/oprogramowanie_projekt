@@ -1,0 +1,7 @@
+Wymagania niefunkcjonalne:
+
+-Aplikacja powinna działać płynnie i szybko, by nie dopuścić do żadnych ścięć.
+-Dane z logowania się użytkowników powinny być strzeżone.
+-Aplikacja powinna działać prawidłowo nawet przy wielkim wzroście osób używających ją.
+-Aplikacja powinna być łatwa w użyciu, by użytkownicy mogli nauczyć się z niej szybko korzystać.
+-Wszystkie dane stracone podczas używania tej aplikacji powinno się dać odzyskać.
