@@ -16,6 +16,6 @@ Wymagania niefunkcjonalne:
 -Aplikacja powinna być monitorowana 24/7, a w razie jakiś błędów na email wysłana wiadomość.
 -Aplikacja powinna być odpowiednio zabezpieczona czyli powinna mieć zainstalowany certyfikat SSL.
 -Aplikacja powinna być dostępna do użytkowania dla ludzi każdej grupy wiekowej.
--Aplikacja powinna być koloru: różowego ...
+-Aplikacja powinna być koloru: różowego.
 -Aplikacja powinna zawierać przyciski CTA, które będą pojawiały się po zalogowaniu w formie reklam i napisów, w kształcie cienkiego paska, na samej górze ekranu.
--Aplikacja powinna mieć czcionkę: ... , o rozmiarze: ...
+-Aplikacja powinna mieć czcionkę: Reddit Mono , o rozmiarze: 20.
