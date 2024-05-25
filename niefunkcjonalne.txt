@@ -6,4 +6,4 @@ Wymagania niefunkcjonalne:
 -Aplikacja powinna być łatwa w użyciu, by użytkownicy mogli nauczyć się z niej szybko korzystać.
 -Wszystkie dane stracone podczas używania tej aplikacji powinno się dać odzyskać.
 -Gdy aplikacja nie będzię działać prawidłowo powinna być, w krótkim czasie naprawiona.
--Administratrorzy strony powinni reagować na wszystkie niedogodności związane z stroną.
+-Administratrorzy strony powinni reagować na wszystkie niedogodności i wiadomości związane z stroną.
