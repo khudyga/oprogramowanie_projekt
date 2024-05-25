@@ -7,3 +7,15 @@ Wymagania niefunkcjonalne:
 -Wszystkie dane stracone podczas używania tej aplikacji powinno się dać odzyskać.
 -Gdy aplikacja nie będzię działać prawidłowo powinna być, w krótkim czasie naprawiona.
 -Administratrorzy strony powinni reagować na wszystkie niedogodności i wiadomości związane z stroną.
+-Aplikacja powinna działać 24/7/365.
+-Aplikacja powinna być dostępna na terenie całej Europy.
+-Aplikacja powinna ładować się po wejściu na nią maksymalnie 15 sekund.
+-Aplikacja powinna odpowiedzieć maksymalnie do 10 sekund na zapytanie użytkownika.
+-Aplikacja powinna mieć możliwość zmiany rozmiaru ekranu w zależności o rozmiar urządzenia, na którym jest używana.
+-Użytkownicy aplikacji powinni mieć dostęp do zgłaszania błędów za pomocą drogi mailowej i poprzez stronę.
+-Aplikacja powinna być monitorowana 24/7, a w razie jakiś błędów na email wysłana wiadomość.
+-Aplikacja powinna być odpowiednio zabezpieczona czyli powinna mieć zainstalowany certyfikat SSL.
+-Aplikacja powinna być dostępna do użytkowania dla ludzi każdej grupy wiekowej.
+-Aplikacja powinna być koloru: różowego ...
+-Aplikacja powinna zawierać przyciski CTA, które będą pojawiały się po zalogowaniu w formie reklam i napisów, w kształcie cienkiego paska, na samej górze ekranu.
+-Aplikacja powinna mieć czcionkę: ... , o rozmiarze: ...
